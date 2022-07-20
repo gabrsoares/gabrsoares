@@ -1,5 +1,5 @@
 ### Hi there 👋 i'm Gabriel
-I'm a chemistry technician, and a front-end student
+I'm a chemistry technician, and a front-end student <br>
 🌱 I’m currently learning HTML and CSS
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriel-soares-61b96b236/)
