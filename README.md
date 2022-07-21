@@ -1,4 +1,4 @@
-### Hi there 👋 i'm Gabriel
+### Hi there 👋 I'm Gabriel
 I'm a chemistry technician, and a front-end student <br>
 🌱 I’m currently learning HTML and CSS
 
