@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Gabriel
 I'm a chemistry technician, and a front-end student <br>
-🌱 I’m currently learning HTML and CSS
+🌱 I’m currently learning Bootstrap and jQuery.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriel-soares-61b96b236/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/gabriel.soares1/)
