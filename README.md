@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Gabriel
-I'm a chemistry technician, and a front-end student <br>
-🌱 I’m currently learning React.js
+I'm a software developer! <br>
+🌱 I’m currently learning C#
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabrsoares/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/gabrsoaress_/)
