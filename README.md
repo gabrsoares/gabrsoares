@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Gabriel
-I'm a software developer! <br>
+I'm a software developer, and a Analysis and systems development student at FATEC São Caetano do Sul <br>
 🌱 I’m currently learning Python
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabrsoares/)
