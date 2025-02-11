@@ -1,6 +1,6 @@
 # Gabriel Soares
 ## Resumo
-Olá, meu nome é Gabriel, sou estudante de Análise e Desenvolvimento de Sistemas na FATEC São Caetano do sul, atualmente estou no 4º semestre manhã.
+Olá, meu nome é Gabriel, sou estudante de Análise e Desenvolvimento de Sistemas na FATEC São Caetano do sul, atualmente estou no 5º semestre manhã.
 Finalizei um curso de Engenheiro Front-End com duração de 1 ano pela EBAC, e atualmente estou desenvolvendo minhas habilidades em back-end.
 Busco por uma oportunidade na área de Tecnologia, mais especificamente estágios na área de desenvolvimento de software ou engenharia de software.  
 ## Conecte-se comigo
